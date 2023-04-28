@@ -52,11 +52,7 @@ const Works = () => {
           variants={["", "", 0.1, 1]}
           className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
-          mollitia, molestiae quas vel sint commodi repudiandae consequuntur
-          voluptatum laborum numquam blanditiis harum quisquam eius sed odit
-          fugiat iusto fuga praesentium optio, eaque rerum! Provident similique
-          accusantium nemo autem.
+          Here are some of my recent projects to showcase the skills I have learnt and applied in real world applications.
         </motion.p>
       </div>
       <div className="mt-20 flex flex-wrap gap-7">

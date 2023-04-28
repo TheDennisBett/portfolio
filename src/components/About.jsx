@@ -32,17 +32,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
-        mollitia, molestiae quas vel sint commodi repudiandae consequuntur
-        voluptatum laborum numquam blanditiis harum quisquam eius sed odit
-        fugiat iusto fuga praesentium optio, eaque rerum! Provident similique
-        accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut
-        molestias architecto voluptate aliquam nihil, eveniet aliquid culpa
-        officia aut! Impedit sit sunt quaerat, odit, tenetur error, harum
-        nesciunt ipsum debitis quas aliquid. Reprehenderit, quia. Quo neque
-        error repudiandae fuga? Ipsa laudantium molestias eos sapiente officiis
-        modi at sunt excepturi expedita sint? Sed quibusdam recusandae alias
-        error harum maxime adipisci amet laborum. Perspiciatis
+        I am a full stack developer skilled in ReactJS, Laravel, CodeIgniter, Python, and NodeJS. My expertise in these languages and frameworks enables me to develop complex and scalable applications for clients. I specialize in creating dynamic user interfaces, building secure web applications, and developing efficient restful apis for back-end systems. With my diverse skill set, I am capable of working on a wide range of projects, delivering solutions that meet my clients' unique needs.
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service,index)=>(

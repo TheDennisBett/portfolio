@@ -25,12 +25,18 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import skytop from "./company/skytop.png"
+import dewcis from "./company/dewcis.png"
+import sybyl from "./company/sybyl.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
+  skytop,
+  dewcis,
+  sybyl,
   logo,
   backend,
   creator,
