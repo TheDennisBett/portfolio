@@ -26,6 +26,7 @@ import {
     skytop,
     sybyl,
     dewcis,
+    craft,
   } from "../assets";
   
   export const navLinks = [
@@ -113,7 +114,7 @@ import {
     {
       title: "Fullstack Developer",
       company_name: "Craft Silicon",
-      icon: skytop,
+      icon: craft,
       iconBg: "#383E56",
       date: "Aug 2024 - Present",
       points: [
