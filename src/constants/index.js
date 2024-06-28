@@ -112,10 +112,23 @@ import {
   const experiences = [
     {
       title: "Fullstack Developer",
+      company_name: "Craft Silicon",
+      icon: skytop,
+      iconBg: "#383E56",
+      date: "Aug 2024 - Present",
+      points: [
+        "Developing and maintaining core banking solution for banks and saccos.",
+        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Participating in code reviews and providing constructive feedback to other developers.",
+      ],
+    },
+    {
+      title: "Fullstack Developer",
       company_name: "Skytop technologies",
       icon: skytop,
       iconBg: "#383E56",
-      date: "Aug 2022 - April 2023",
+      date: "Aug 2022 - July 2023",
       points: [
         "Developing and maintaining web applications using React.js,codeigniter and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",

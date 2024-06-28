@@ -30,10 +30,42 @@ const About = () => {
       </motion.div>
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
-        className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
-      >
-        I am a full stack developer skilled in ReactJS, Laravel, CodeIgniter, Python, and NodeJS. My expertise in these languages and frameworks enables me to develop complex and scalable applications for clients. I specialize in creating dynamic user interfaces, building secure web applications, and developing efficient restful apis for back-end systems. With my diverse skill set, I am capable of working on a wide range of projects, delivering solutions that meet my clients' unique needs.
+        className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
+      I am a full stack developer skilled in:
       </motion.p>
+      
+      <motion.ul
+              variants={fadeIn("", "", 0.1, 1)}
+              className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
+      <motion.li
+      >
+        C# Restful Apis and web services.
+      </motion.li>
+      <motion.li
+      >
+        Javascript- NodeJS, ReactJs.
+      </motion.li>
+      <motion.li
+      >
+        Version Control-Github, TFS. 
+      </motion.li>
+      <motion.li
+      >
+        Cloud technologies-Azure. 
+      </motion.li>
+      <motion.li
+      >
+        Database Administration- MS SQL, PostgreSQL, MongoDB,MySQL.
+      </motion.li>
+      <motion.li
+      >
+        In memory caching- REDIS.
+      </motion.li>
+      <motion.li
+      >
+        Containerization- Docker, K8s.
+      </motion.li>
+      </motion.ul>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service,index)=>(
           <ServiceCard key={service.title} index={index} {...service}/>
