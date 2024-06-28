@@ -30,42 +30,41 @@ const About = () => {
       </motion.div>
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
-        className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
+        className="mt-4 text-white-100 text-[17px] max-w-3xl leading-[30px]">
       I am a full stack developer skilled in:
       </motion.p>
       
-      <motion.ul
-              variants={fadeIn("", "", 0.1, 1)}
-              className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-      <motion.li
+      <ul
+          className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
+      <li
       >
         C# Restful Apis and web services.
-      </motion.li>
-      <motion.li
+      </li>
+      <li
       >
         Javascript- NodeJS, ReactJs.
-      </motion.li>
-      <motion.li
+      </li>
+      <li
       >
         Version Control-Github, TFS. 
-      </motion.li>
-      <motion.li
+      </li>
+      <li
       >
         Cloud technologies-Azure. 
-      </motion.li>
-      <motion.li
+      </li>
+      <li
       >
         Database Administration- MS SQL, PostgreSQL, MongoDB,MySQL.
-      </motion.li>
-      <motion.li
+      </li>
+      <li
       >
         In memory caching- REDIS.
-      </motion.li>
-      <motion.li
+      </li>
+      <li
       >
         Containerization- Docker, K8s.
-      </motion.li>
-      </motion.ul>
+      </li>
+      </ul>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service,index)=>(
           <ServiceCard key={service.title} index={index} {...service}/>
