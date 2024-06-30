@@ -28,6 +28,7 @@ import tesla from "./company/tesla.png";
 import skytop from "./company/skytop.png"
 import dewcis from "./company/dewcis.png"
 import sybyl from "./company/sybyl.png"
+import craft from "./company/craft.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -65,4 +66,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  craft
 };

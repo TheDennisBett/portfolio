@@ -198,6 +198,7 @@ import {
       ],
       image: carrent,
       source_code_link: "https://github.com/erickkipkoech/devjobsposting",
+      live_link: "https://emky.cloud/"
     },
     {
       name: "CRUD Rest Apis",
@@ -219,6 +220,7 @@ import {
       ],
       image: jobit,
       source_code_link: "https://github.com/erickkipkoech/laravel-api-sanctum-authentication",
+      live_link: "https://github.com/erickkipkoech/laravel-api-sanctum-authentication"
     },
     {
       name: "Blog Landing Page",
@@ -232,6 +234,7 @@ import {
       ],
       image: tripguide,
       source_code_link: "https://github.com/erickkipkoech/tailwind-landing-page",
+      live_link: "https://celadon-druid-6bec22.netlify.app/"
     },
   ];
   
