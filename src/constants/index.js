@@ -198,7 +198,7 @@ import {
       ],
       image: carrent,
       source_code_link: "https://github.com/erickkipkoech/devjobsposting",
-      live_link: "https://devjobs.com.emky.cloud/"
+      live_link: "https://dev.jobs.emky.cloud/"
     },
     {
       name: "CRUD Rest Apis",
