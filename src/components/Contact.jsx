@@ -26,9 +26,9 @@ const Contact = () => {
         "template_bhpneag",
         {
           from_name: form.name,
-          to_name: "Erick",
+          to_name: "Dennis",
           from_email: form.email,
-          to_email: "cheruiyotkipkoech612@gmail.com",
+          to_email: "bettict1@gmail.com",
           message: form.message,
         },
         'X6to9UQSqzQYMXvyM'
