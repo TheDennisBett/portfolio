@@ -213,8 +213,8 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/erickkipkoech/laravel-api-sanctum-authentication",
-      live_link: "https://github.com/erickkipkoech/laravel-api-sanctum-authentication"
+      source_code_link: "https://github.com/TheDennisBett/netlify",
+      live_link: "https://github.com/TheDennisBett/netlify"
     },
     {
       name: "Blog Landing Page",
@@ -227,7 +227,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/erickkipkoech/tailwind-landing-page",
+      source_code_link: "https://github.com/TheDennisBett/tailwind-landing-page",
       live_link: "https://celadon-druid-6bec22.netlify.app/"
     },
   ];
